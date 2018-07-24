@@ -1,0 +1,33 @@
+20 A - New Year Candles
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+2
+0
+4 4 2
+
+2 7
+
+1
+1
+4 6 3
+
+2 8
+
+1
+9 src/codes
+8 -Xmx256M
+4 Main
+11 codes.TaskA
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2018.03.31
+13 Good Bye 2013
+1
+18 FastIO.InputReader
+19 FastIO.OutputWriter
+0
+0

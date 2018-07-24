@@ -1,0 +1,35 @@
+11 A - Dubstep
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+3
+0
+13 WUBWUBABCWUB
+
+4 ABC 
+1
+1
+50 WUBWEWUBAREWUBWUBTHEWUBCHAMPIONSWUBMYWUBFRIENDWUB
+
+31 WE ARE THE CHAMPIONS MY FRIEND 
+1
+2
+34 CWUBBWUBWUBWUBEWUBWUBWUBQWUBWUBWUB
+8 C B E Q 
+1
+9 src/codes
+8 -Xmx256M
+4 Main
+11 codes.TaskA
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2018.03.31
+30 Codeforces Round #130 (Div. 2)
+1
+18 FastIO.InputReader
+19 FastIO.OutputWriter
+0
+0
