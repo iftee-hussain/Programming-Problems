@@ -1,0 +1,62 @@
+18 A - Free Ice Cream
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+4
+0
+28 5 7
++ 5
+- 10
+- 20
++ 40
+- 20
+
+5 22 1
+
+1
+1
+30 5 17
+- 16
+- 2
+- 98
++ 100
+- 98
+
+4 3 2
+
+1
+2
+90 6 1000000000
++ 1000000000
++ 1000000000
++ 1000000000
++ 1000000000
++ 1000000000
++ 1000000000
+12 7000000000 0
+1
+3
+26 5 12
+- 12
++ 7
+- 6
+- 1
++ 46
+4 46 0
+1
+9 src/codes
+8 -Xmx256M
+4 Main
+11 codes.TaskA
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2018.07.22
+30 Codeforces Round #359 (Div. 2)
+1
+18 FastIO.InputReader
+19 FastIO.OutputWriter
+0
+0

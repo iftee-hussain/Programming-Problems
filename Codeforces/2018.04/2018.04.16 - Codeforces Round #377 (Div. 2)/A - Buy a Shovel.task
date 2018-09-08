@@ -1,0 +1,39 @@
+16 A - Buy a Shovel
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+3
+0
+6 117 3
+
+2 9
+
+1
+1
+6 237 7
+
+2 1
+
+1
+2
+5 15 2
+
+2 2
+
+1
+9 src/codes
+8 -Xmx256M
+4 Main
+11 codes.TaskA
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2018.04.16
+30 Codeforces Round #377 (Div. 2)
+1
+18 FastIO.InputReader
+19 FastIO.OutputWriter
+0
+0

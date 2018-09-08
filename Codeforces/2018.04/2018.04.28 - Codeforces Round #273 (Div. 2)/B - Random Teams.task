@@ -1,0 +1,43 @@
+16 B - Random Teams
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+4
+0
+4 5 1
+
+6 10 10
+
+1
+1
+4 3 2
+
+4 1 1
+
+1
+2
+4 6 3
+
+4 3 6
+
+1
+3
+10 5000000 12
+28 1041664166668 12499942500066
+1
+9 src/codes
+8 -Xmx256M
+4 Main
+11 codes.TaskB
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2018.04.28
+30 Codeforces Round #273 (Div. 2)
+1
+18 FastIO.InputReader
+19 FastIO.OutputWriter
+0
+0

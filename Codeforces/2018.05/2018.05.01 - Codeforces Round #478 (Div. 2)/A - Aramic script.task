@@ -1,0 +1,38 @@
+17 A - Aramic script
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+3
+0
+18 5
+a aa aaa ab abb
+
+1 2
+1
+1
+17 3
+amer arem mrea
+
+1 1
+1
+2
+19 3
+aabbfg abfg abfgg
+-1
+1
+9 src/codes
+8 -Xmx256M
+4 Main
+11 codes.TaskA
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2018.05.01
+30 Codeforces Round #478 (Div. 2)
+1
+18 FastIO.InputReader
+19 FastIO.OutputWriter
+0
+0

@@ -1,0 +1,33 @@
+11 B - Mancala
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+2
+0
+28 0 1 1 0 0 0 0 0 0 7 0 0 0 0
+
+2 4
+
+1
+1
+28 5 1 1 1 1 0 0 0 0 0 0 0 0 0
+
+2 8
+
+1
+9 src/codes
+8 -Xmx256M
+4 Main
+11 codes.TaskB
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2018.05.02
+30 Codeforces Round #478 (Div. 2)
+1
+18 FastIO.InputReader
+19 FastIO.OutputWriter
+0
+0

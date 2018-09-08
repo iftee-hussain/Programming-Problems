@@ -1,0 +1,42 @@
+26 A - Modular Exponentiation
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+3
+0
+5 4
+42
+
+3 10
+
+1
+1
+5 1
+58
+
+2 0
+
+1
+2
+18 98765432
+23456789
+
+9 23456789
+
+1
+9 src/codes
+8 -Xmx256M
+4 Main
+11 codes.TaskA
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2018.07.21
+10 Hello 2018
+1
+18 FastIO.InputReader
+19 FastIO.OutputWriter
+0
+0

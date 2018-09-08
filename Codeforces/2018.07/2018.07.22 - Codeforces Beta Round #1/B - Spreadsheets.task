@@ -1,0 +1,30 @@
+16 B - Spreadsheets
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+1
+0
+14 2
+R23C55
+BC23
+
+12 BC23
+R23C55
+
+1
+9 src/codes
+7 -Xmx64M
+4 Main
+11 codes.TaskB
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2018.07.22
+24 Codeforces Beta Round #1
+1
+18 FastIO.InputReader
+19 FastIO.OutputWriter
+0
+0
